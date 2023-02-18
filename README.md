@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxfroh
 - 👀 I’m interested in several things
-- 🌱 I’m currently learning what is github
+- 🌱 I’m currently learning c; numpy/pandas; ...
 
 <!---
 maxfroh/maxfroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
