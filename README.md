@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @maxfroh
-- 👀 I’m interested in several things
-- 🌱 I’m currently learning c; numpy/pandas; ...
+Hey! I’m @maxfroh :)
+
+I'm currently learning a lot, including
+  - Python libraries - numPy/pandas and TensorFlow
+  - Web dev - Angular
+
+Outside of programming, I like
+  - doodling
+  - beekeeping
+  - baking
+  - learning (natural) languages
+
 
 <!---
 maxfroh/maxfroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
