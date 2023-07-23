@@ -1,6 +1,6 @@
 Hey! I’m @maxfroh :)
 
-I'm currently learning a lot, including
+I'm currently learning:
   - Python libraries - numPy/pandas and TensorFlow
   - Web dev - Angular
 
