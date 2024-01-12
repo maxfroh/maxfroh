@@ -8,7 +8,7 @@ Outside of programming, I like
   - doodling
   - beekeeping
   - baking
-  - learning (natural) languages
+  - linguistics and learning (natural) languages (中文, ASL🤟)
 
 
 <!---
