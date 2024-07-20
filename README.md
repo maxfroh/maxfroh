@@ -1,13 +1,13 @@
-Hey! I’m @maxfroh :)
+Hey! I’m `maxfroh` :)
 
 I'm currently learning:
-  - Python libraries - numPy/pandas and TensorFlow
-  - Web dev - Angular
+  - ML with Python - PyTorch
+  - Web dev - React, Next.js
 
-Outside of programming, I like
-  - doodling
-  - beekeeping
-  - baking
+Outside of computer science, I like
+  - doodling ✏️
+  - beekeeping 🐝
+  - baking 🥖
   - linguistics and learning (natural) languages (中文, ASL🤟)
 
 
